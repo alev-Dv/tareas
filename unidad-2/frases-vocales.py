@@ -1,4 +1,4 @@
-# Ejercicio 6
+# Ejercicio 7
 # Solicitar al usuario que ingrese una frase y luego imprimir la cantidad de vocales que se encuentran en dicha frase.
 frase = input("Ingresa una frase: ")
 vocales = "aeiouáéíóú"
